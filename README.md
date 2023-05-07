@@ -12,4 +12,5 @@ Film ekleme, film seçme, koltuk seçme işlemlerini yapabilen, bunları analiz 
 3) VERİTABANINDA KULLANILACAK TABLOLAR
 
 Müşteri bilgileri, film ekleme,film seçme, koltuklar, fatura
+
 Giriş işlemlerini yapacak ekranların olması.
